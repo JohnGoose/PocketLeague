@@ -5,7 +5,7 @@ A mobile car soccer game prototype inspired by Rocket League
 
 ## Demo
 
-![](https://github.com/lsjoberg98/Pocket-Ball/blob/master/Clips/Pocket.gif)
+![](https://github.com/JohnGoose/PocketLeague/blob/master/Clips/Pocket.gif)
 
 
 ## Getting Started
